@@ -1,4 +1,5 @@
-﻿
+﻿using System.Windows.Forms;
+
 namespace TrackerUI
 {
     partial class TournamentViewerForm

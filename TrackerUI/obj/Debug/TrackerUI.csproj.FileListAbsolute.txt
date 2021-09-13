@@ -20,3 +20,6 @@ C:\Users\razvi\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.cspr
 C:\Users\razvi\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
 C:\Users\razvi\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.exe
 C:\Users\razvi\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb
+C:\Users\razvi\source\repos\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.dll
+C:\Users\razvi\source\repos\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.pdb
+C:\Users\razvi\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CopyComplete

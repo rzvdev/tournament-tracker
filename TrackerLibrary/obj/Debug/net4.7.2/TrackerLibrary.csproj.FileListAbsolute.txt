@@ -1,0 +1,9 @@
+C:\Users\razvi\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\net4.7.2\TrackerLibrary.dll
+C:\Users\razvi\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\net4.7.2\TrackerLibrary.pdb
+C:\Users\razvi\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net4.7.2\TrackerLibrary.csproj.AssemblyReference.cache
+C:\Users\razvi\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net4.7.2\TrackerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razvi\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net4.7.2\TrackerLibrary.AssemblyInfoInputs.cache
+C:\Users\razvi\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net4.7.2\TrackerLibrary.AssemblyInfo.cs
+C:\Users\razvi\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net4.7.2\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\razvi\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net4.7.2\TrackerLibrary.dll
+C:\Users\razvi\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net4.7.2\TrackerLibrary.pdb

@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SRHqKWeBN8To9EXTTWFOLNxcAV4KCby0w+MXCOUyQHkVxJnx1gf7gT04lGil8wccdX75AuPj4AD1DL9xWlDXZw==",
+  "dgSpecHash": "Czzc5r1m+yzyuoNDjjRY+M+1dV3pcg/NLSS3nAJkQnIDWdRP6OiCIL5rpwM26irRNdoHjylucoCC2COaqCzEmg==",
   "success": true,
   "projectFilePath": "C:\\Users\\razvi\\source\\repos\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\razvi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\razvi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\razvi\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
